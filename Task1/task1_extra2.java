@@ -1,7 +1,4 @@
-import java.util.ArrayList;
-import java.util.List;
 import java.util.Scanner;
-import java.util.Collections;
 
 public class task1_extra2 {
     public static String ipFromNum(long num) {
